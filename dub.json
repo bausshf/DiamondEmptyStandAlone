@@ -1,0 +1,13 @@
+{
+    "name": "diamondproject",
+    "description": "A diamond stand-alone project",
+    "authors": ["Jacob Jensen"],
+    "homepage": "http://mydiamondwebsiteproject.com/",
+    "license": "http://mydiamondwebsiteproject.com/license",
+    "dependencies": {
+        "diamond": "~>0.2.3"
+    },
+    "sourcePaths": ["src", "models"],
+    "stringImportPaths": ["views", "config"],
+    "targetType": "executable"
+}
